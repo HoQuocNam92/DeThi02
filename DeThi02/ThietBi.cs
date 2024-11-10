@@ -35,7 +35,7 @@ namespace DeThi02
         public int NamSanXuat
         {
             get { return namSanXuat; }
-            set { NamSanXuat = value; }
+            set { namSanXuat = value; }
         }
         public double GiaBan { get { return giaBan; }
             set { if (value >= 0)

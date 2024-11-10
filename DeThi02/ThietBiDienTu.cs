@@ -34,5 +34,6 @@ namespace DeThi02
             }
             return base.loiNhuan() *0.98;
         }
+       
     }
 }
